@@ -1,0 +1,8 @@
+prefix=/home/ytta/nasywa_ws/devel
+
+Name: bank_auth
+Description: Description of bank_auth
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
